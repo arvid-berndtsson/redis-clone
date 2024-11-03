@@ -2,7 +2,7 @@
 name = "redis-clone"
 version = "0.1.0"
 authors = ["Arvid Berndtsson <arvid@berndtsson.me>"]
-edition = "2024"
+edition = "2021"
 
 
 [dependencies]
